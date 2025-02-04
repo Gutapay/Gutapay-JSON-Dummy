@@ -129,9 +129,9 @@
       "id": "123-456-789",
       "label": "Diamond ML 267dm",
       "input_placeholder": "Masukkan ID Mobile Legend kamu",
-      "category": null,
-      "brand": null,
-      "subbrand": null,
+      "category": "Game",
+      "brand": "Mobile Legend",
+      "subbrand": "Umum",
       "default_price": 25000,
       "price_after_promo": 20000,
       "promo": {
