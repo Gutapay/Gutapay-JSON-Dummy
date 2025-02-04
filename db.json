@@ -1,8 +1,7 @@
-//get all products
 "products":{
   "metadata": {
     "message": "lorem ipsum",
-    "code": 20 //diisi code khusus utk sistem gutapay
+    "code": 20 
   },
   "pagination": {
     "current_page": 2,
@@ -15,15 +14,15 @@
       "id": "123-456-789",
       "label": "Diamond ML 267dm"
       "input_placeholder": "Masukkan ID Mobile Legend kamu"
-      "category": null,//nullable, hanya dimunculin pas get product by product_id
-      "brand": null,//nullable, hanya dimunculin pas get product by product_id
-      "subbrand": null,//nullable, hanya dimunculin pas get product by product_id
+      "category": null,
+      "brand": null,
+      "subbrand": null,
       "default_price": 25000,
       "price_after_promo": 20000,
       "promo": {
         "label": "Promo akhir tahun",
-        "amount": 0.2 //20%
-      }, //nullable jika memang tidak ada promo untuk produk ini
+        "amount": 0.2 
+      }, 
       "banner": {
         "url": "some_url.com/some_image.png",
         "description": "Beli diamond ML murah di Gutapay",
@@ -38,15 +37,15 @@
       "id": "789-456-123",
       "label": "Diamond ML 120dm"
       "input_placeholder": "Masukkan ID Mobile Legend kamu"
-      "category": null,//nullable, hanya dimunculin pas get product by product_id
-      "brand": null,//nullable, hanya dimunculin pas get product by product_id
-      "subbrand": null,//nullable, hanya dimunculin pas get product by product_id
+      "category": null,
+      "brand": null,
+      "subbrand": null,
       "default_price": 10000,
       "price_after_promo": 9000,
       "promo": {
         "label": "Promo akhir tahun",
-        "amount": 0.1 //10%
-      }, //nullable jika memang tidak ada promo untuk produk ini
+        "amount": 0.1 
+      }, 
       "banner": {
         "url": "some_url.com/some_image.png",
         "description": "Beli diamond ML murah di Gutapay",
