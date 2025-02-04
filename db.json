@@ -64,12 +64,6 @@
       "message": "lorem ipsum",
       "code": 20
     },
-    "pagination": {
-      "current_page": 2,
-      "total_page": 5,
-      "prev_page": 1,
-      "next_page": 3
-    },
     "special_categories": {
       "label": "Pembelian terbanyak",
       "icon": {
