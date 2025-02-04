@@ -1,60 +1,62 @@
-"products":{
-  "metadata": {
-    "message": "lorem ipsum",
-    "code": 20 
-  },
-  "pagination": {
-    "current_page": 2,
-    "total_page": 5,
-    "prev_page": 1,
-    "next_page": 3
-  },
-  "data": [
-    {
-      "id": "123-456-789",
-      "label": "Diamond ML 267dm"
-      "input_placeholder": "Masukkan ID Mobile Legend kamu"
-      "category": null,
-      "brand": null,
-      "subbrand": null,
-      "default_price": 25000,
-      "price_after_promo": 20000,
-      "promo": {
-        "label": "Promo akhir tahun",
-        "amount": 0.2 
-      }, 
-      "banner": {
-        "url": "some_url.com/some_image.png",
-        "description": "Beli diamond ML murah di Gutapay",
-        "expired_at": "2025-01-25T00:00:00Z"
-      },
-      "icon": {
-        "url": "some_url.com/some_image.png",
-        "description": "Icon Mobile Legend terbaru"
-      }
+{
+  "products": {
+    "metadata": {
+      "message": "lorem ipsum",
+      "code": 20
     },
-    {
-      "id": "789-456-123",
-      "label": "Diamond ML 120dm"
-      "input_placeholder": "Masukkan ID Mobile Legend kamu"
-      "category": null,
-      "brand": null,
-      "subbrand": null,
-      "default_price": 10000,
-      "price_after_promo": 9000,
-      "promo": {
-        "label": "Promo akhir tahun",
-        "amount": 0.1 
-      }, 
-      "banner": {
-        "url": "some_url.com/some_image.png",
-        "description": "Beli diamond ML murah di Gutapay",
-        "expired_at": "2025-01-25T00:00:00Z"
+    "pagination": {
+      "current_page": 2,
+      "total_page": 5,
+      "prev_page": 1,
+      "next_page": 3
+    },
+    "data": [
+      {
+        "id": "123-456-789",
+        "label": "Diamond ML 267dm",
+        "input_placeholder": "Masukkan ID Mobile Legend kamu",
+        "category": null,
+        "brand": null,
+        "subbrand": null,
+        "default_price": 25000,
+        "price_after_promo": 20000,
+        "promo": {
+          "label": "Promo akhir tahun",
+          "amount": 0.2
+        },
+        "banner": {
+          "url": "some_url.com/some_image.png",
+          "description": "Beli diamond ML murah di Gutapay",
+          "expired_at": "2025-01-25T00:00:00Z"
+        },
+        "icon": {
+          "url": "some_url.com/some_image.png",
+          "description": "Icon Mobile Legend terbaru"
+        }
       },
-      "icon": {
-        "url": "some_url.com/some_image.png",
-        "description": "Icon Mobile Legend terbaru"
+      {
+        "id": "789-456-123",
+        "label": "Diamond ML 120dm",
+        "input_placeholder": "Masukkan ID Mobile Legend kamu",
+        "category": null,
+        "brand": null,
+        "subbrand": null,
+        "default_price": 10000,
+        "price_after_promo": 9000,
+        "promo": {
+          "label": "Promo akhir tahun",
+          "amount": 0.1
+        },
+        "banner": {
+          "url": "some_url.com/some_image.png",
+          "description": "Beli diamond ML murah di Gutapay",
+          "expired_at": "2025-01-25T00:00:00Z"
+        },
+        "icon": {
+          "url": "some_url.com/some_image.png",
+          "description": "Icon Mobile Legend terbaru"
+        }
       }
-    }
-  ]
+    ]
+  }
 }
